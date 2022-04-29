@@ -1,6 +1,6 @@
 Hey, I am Arthur Zinck.
 
-I currently work for [Bedrock Streaming](https://www.bedrockstreaming.com/)
+I currently work(having fun and getting paid at the same time) for [Bedrock Streaming](https://www.bedrockstreaming.com/)
 
 I hold a blog with a friend [@remyj38](https://github.com/remyj38) [initManFs](https://initmanfs.eu/en/)
 
