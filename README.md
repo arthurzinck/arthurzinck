@@ -1,4 +1,4 @@
-Hey, I am Arthur Zinck.
+Hey
 
 I currently work(having fun and getting paid at the same time) for [Bedrock Streaming](https://www.bedrockstreaming.com/)
 
