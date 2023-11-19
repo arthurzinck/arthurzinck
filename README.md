@@ -9,6 +9,8 @@ Quelques articles a propos de mon travail chez Bedrock Streaming que vous pouvez
 
 * [How to ingest 400GB of logs per hour?](https://tech.bedrockstreaming.com/2022/08/08/private-cdn-logs.html)
 * [How Micro-Services changed our caching architecture](https://tech.bedrockstreaming.com/2022/12/23/varnish-operator.html)
+
+
 Venez me parler, je suis présent sur [Twitter](https://twitter.com/az3k_) or [Linkedin](https://fr.linkedin.com/in/arthurzinck), et sur [Bluesky](https://bsky.app/profile/z3k.bsky.social)
 
 Vous pouvez également prendre [rendez-vous](https://calendly.com/arthur-z3k/30min) pour discuter de votre projet.
