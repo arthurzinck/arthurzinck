@@ -14,4 +14,5 @@ Quelques articles a propos de mon travail chez Bedrock Streaming que vous pouvez
 Venez me parler, je suis présent sur [Twitter](https://twitter.com/az3k_) or [Linkedin](https://fr.linkedin.com/in/arthurzinck), et sur [Bluesky](https://bsky.app/profile/z3k.bsky.social)
 
 Vous pouvez également prendre [rendez-vous](https://calendly.com/arthur-z3k/30min) pour discuter de votre projet.
+
 A bientôt 🚀
