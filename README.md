@@ -1,18 +1,21 @@
+🌟 **Architecte Cloud et Expert DevOps** avec 7 ans d'expérience, je suis doublement certifié sur Kubernetes, spécialisé dans la transformation de vos idées en solutions technologiques de pointe.
 
-DevOps / Cloud Architect depuis 6 ans, doublement certifiée sur Kubernetes.
+🚀 **Compétences Clés :**
+ * **Transition vers Kubernetes :** Modernisez votre infrastructure avec une intégration fluide et efficace de Kubernetes.
+ * **Packaging avec Helm :** Gérez vos applications de manière efficace, pour une fiabilité optimale.
+ * **Chiffrement de vos Secrets :** avec Sops, ne laissez plus de mot de passe en clair dans votre dépôt de code. 
+* **Optimisation des coûts AWS :** Réduisez vos dépenses sur le cloud tout en maximisant les performances.
+* **Migration et Déploiement sur AWS avec IaC :** Utilisez Terraform pour un déploiement agile et sécurisé sur AWS, mettant en avant l'Infrastructure as Code.
+* **Automatisation des déploiements :** Exploitez Terraform, Ansible, GitHub Actions, GitLab CI, et Jenkins pour des déploiements rapides et fiables.
+* **Configuration de Stack de Monitoring, Logging, et d'Alerting :** Mettez en place des systèmes robustes pour surveiller, enregistrer et alerter, garantissant ainsi une visibilité et une réactivité optimales de votre infrastructure.
+🔍 **Pour les Utilisateurs de Kubernetes/AWS :**
+Je réalise une analyse approfondie de votre infrastructure actuelle et élabore une feuille de route personnalisée axée sur la réduction du temps de déploiement, l'amélioration de la résilience et l'augmentation de la scalabilité.
 
-Je peux vous accompagner sur des projets de migrations chez AWS, de packaging de vos applications avec Helm, de refonte de votre stack technique pour passer sur Kubernetes ou d'industrialisation des déploiements avec du Terrafom, Ansible, Github Action, Gilab CI, Jenkins.
+💬 **Parlons de Votre Projet :**
+Rencontrons-nous pour 30 minutes afin de discuter de vos besoins spécifiques et de découvrir comment ma contribution peut propulser votre projet.
 
-Si vous êtes déjà sur Kubernetes / AWS, je peux vous proposer un call, pour faire un bilan de ce qui a été fait. Et ainsi faire une roadmap de ce qu'il pourrait fait dans les prochains mois (formation, refonte, mis à jour, industrialisation ..) en fonction de ce qui serait pertinent pour vous dans le futur.
+🌐 Ensemble, avançons vers une transformation digitale efficace, rentable et sécurisée.
 
-Quelques articles a propos de mon travail chez Bedrock Streaming que vous pouvez retrouver sur le blog tech de Bedrock:
+Prêt à relever vos défis technologiques avec un partenariat innovant ? Contactez-moi.
 
-* [How to ingest 400GB of logs per hour?](https://tech.bedrockstreaming.com/2022/08/08/private-cdn-logs.html)
-* [How Micro-Services changed our caching architecture](https://tech.bedrockstreaming.com/2022/12/23/varnish-operator.html)
-
-
-Venez me parler, je suis présent sur [Twitter](https://twitter.com/az3k_) or [Linkedin](https://fr.linkedin.com/in/arthurzinck), et sur [Bluesky](https://bsky.app/profile/z3k.bsky.social)
-
-Vous pouvez également prendre [rendez-vous](https://calendly.com/arthur-z3k/30min) pour discuter de votre projet.
-
-A bientôt 🚀
+À très bientôt pour une collaboration qui change la donne ! 🚀
