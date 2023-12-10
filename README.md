@@ -23,6 +23,6 @@ Prêt à relever vos défis technologiques avec un partenariat innovant ? Contac
 
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurzinck&count_private=true&show_icons=true&theme=tokyonight" width="400">
-<br />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzinck&theme=tokyonight" />
 </div>
