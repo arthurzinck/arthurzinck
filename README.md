@@ -19,3 +19,10 @@ Rencontrons-nous pour 30 minutes afin de discuter de vos besoins spécifiques et
 Prêt à relever vos défis technologiques avec un partenariat innovant ? Contactez-moi.
 
 À très bientôt pour une collaboration qui change la donne ! 🚀
+
+
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurzinck&count_private=true&show_icons=true&theme=prussian" width="400">
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzinck&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</div>
