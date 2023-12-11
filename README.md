@@ -14,7 +14,7 @@ Je réalise une analyse approfondie de votre infrastructure actuelle et élabore
 💬 **Parlons de Votre Projet :**
 Rencontrons-nous pour 30 minutes afin de discuter de vos besoins spécifiques et de découvrir comment ma contribution peut propulser votre projet.
 
-🌐 Ensemble, avançons vers une transformation digitale efficace, rentable et sécurisée.
+🌐 Ensemble, avançons vers une transformation numérique efficace, rentable et sécurisée.
 
 Prêt à relever vos défis technologiques avec un partenariat innovant ? Contactez-moi.
 
