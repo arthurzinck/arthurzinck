@@ -20,9 +20,13 @@ Prêt à relever vos défis technologiques avec un partenariat innovant ? Contac
 
 À très bientôt pour une collaboration qui change la donne ! 🚀
 
-
+<!--
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurzinck&count_private=true&show_icons=true&theme=tokyonight" width="400">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzinck&theme=tokyonight" />
 </div>
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api?username=arthurzinck&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzinck&size_weight=0.5&count_weight=0.5&layout=compact)
