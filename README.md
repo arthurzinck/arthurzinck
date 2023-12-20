@@ -8,6 +8,7 @@
 * **Migration et Déploiement sur AWS avec IaC :** Utilisez Terraform pour un déploiement agile et sécurisé sur AWS, mettant en avant l'Infrastructure as Code.
 * **Automatisation des déploiements :** Exploitez Terraform, Ansible, GitHub Actions, GitLab CI, et Jenkins pour des déploiements rapides et fiables.
 * **Configuration de Stack de Monitoring, Logging, et d'Alerting :** Mettez en place des systèmes robustes pour surveiller, enregistrer et alerter, garantissant ainsi une visibilité et une réactivité optimales de votre infrastructure.
+
 🔍 **Pour les Utilisateurs de Kubernetes/AWS :**
 Je réalise une analyse approfondie de votre infrastructure actuelle et élabore une feuille de route personnalisée axée sur la réduction du temps de déploiement, l'amélioration de la résilience et l'augmentation de la scalabilité.
 
