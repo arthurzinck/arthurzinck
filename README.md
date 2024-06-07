@@ -1,26 +1,19 @@
-🌟 **Architecte Cloud et Expert DevOps** avec 7 ans d'expérience, je suis doublement certifié sur Kubernetes, spécialisé dans la transformation de vos idées en solutions technologiques de pointe.
+J'aide les petites entreprises à moderniser leur infrastructure, pour qu'elles aient un niveau de confiance et de satisfaction qui leur permette d'innover et de se concentrer sur autre chose que leur résilience et leur stabilité.
 
-🚀 **Compétences Clés :**
- * **Transition vers Kubernetes :** Modernisez votre infrastructure avec une intégration fluide et efficace de Kubernetes.
- * **Packaging avec Helm :** Gérez vos applications de manière efficace, pour une fiabilité optimale.
- * **Chiffrement de vos Secrets :** avec Sops, ne laissez plus de mot de passe en clair dans votre dépôt de code. 
-* **Optimisation des coûts AWS :** Réduisez vos dépenses sur le cloud tout en maximisant les performances.
-* **Migration et Déploiement sur AWS avec IaC :** Utilisez Terraform pour un déploiement agile et sécurisé sur AWS, mettant en avant l'Infrastructure as Code.
-* **Automatisation des déploiements :** Exploitez Terraform, Ansible, GitHub Actions, GitLab CI, et Jenkins pour des déploiements rapides et fiables.
-* **Configuration de Stack de Monitoring, Logging, et d'Alerting :** Mettez en place des systèmes robustes pour surveiller, enregistrer et alerter, garantissant ainsi une visibilité et une réactivité optimales de votre infrastructure.
+J'ai l'habitude et le savoir-faire pour vous aider dans votre transition vers des outils et une organisation plus moderne.
 
-🔍 **Pour les Utilisateurs de Kubernetes/AWS :**
-Je réalise une analyse approfondie de votre infrastructure actuelle et élabore une feuille de route personnalisée axée sur la réduction du temps de déploiement, l'amélioration de la résilience et l'augmentation de la scalabilité.
+Par exemple, migrer vers Kubernetes on-premise ou chez AWS, créer une organisation permettant une meilleure collaboration et une plus grande efficacité.
 
-💬 **Parlons de Votre Projet :**
-Rencontrons-nous pour 30 minutes afin de discuter de vos besoins spécifiques et de découvrir comment ma contribution peut propulser votre projet.
-
-🌐 Ensemble, avançons vers une transformation numérique efficace, rentable et sécurisée.
-
-Prêt à relever vos défis technologiques avec un partenariat innovant ? Contactez-moi.
-
-À très bientôt pour une collaboration qui change la donne ! 🚀
-
+Quelques succès :
+* Partage de mon expérience et expertise a travers des articles de blogs (* Réduction du nombre de ligne et de la complexité pour déployer l'ensemble des applications de 260000 lignes a 7000 lignes
+* Audit d'incidents de production et changement de la politique d'allocation des ressources dans Kubernetes
+* Économie de centaines de milliers d’euros sur la facture AWS en mettant en place un service de CDN on-premise.
+* Réduction de milliers d’euros sur la facture AWS en changeant les instances pour des instances spot (historiquement 61 % moins chères).
+* Augmentation de la résilience et économie de dizaines de milliers d’euros en proposant des solutions open source pour la gestion des secrets.
+* Déploiement de clusters Kubernetes capables d’encaisser des centaines de milliers de visiteurs simultanément.
+* Migration simplifiée d’anciens services vers Kubernetes grâce à une architecture sur mesure.
+* Suite à des tests de chaos, mise en évidence de défaillances dans des mécanismes de secours.
+* MCO (Maintenance en Conditions Opérationnelles) de dizaines de clusters Kubernetes.
 <!--
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurzinck&count_private=true&show_icons=true&theme=tokyonight" width="400">
